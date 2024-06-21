@@ -1,4 +1,4 @@
-baseURL               = "https://directory.wnor.net/front-end"
+baseURL               = "https://front-end.directory.wnor.net"
 languageCode          = "zh-CN"
 title                 = "前端开发资源导航🧭"
 theme                 = "WebStack-Hugo"
@@ -9,11 +9,12 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 
 [params]
-    author        = "someone"
+    author        = "zpsud"
     description   = "前端开发资源导航🧭"
     upload        = "https://form.google.com"                   # 左侧导航栏的"网站提交"
-    about         = "https://github.com/wnor543"	            # 左侧导航栏的"关于导航"页面(./about)
+    about         = "https://github.com/zpsud"	                # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/zpsud/frontend-directory"  
+    contactLink   = false                                       # 右下角的联系我们链接，string | boolean
     enablePreLoad = true					                    # 网站完全打开前预加载动画
     textPreLoad   = "前端开发资源导航🧭"				            # 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					                    # 默认展开左侧边导航栏
@@ -34,14 +35,14 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 [params.analytics]
     plausibleScript             = 'https://analysis.wnor.net/js/script.js'
-    plausibleDomain             = 'directory.wnor.net'
+    plausibleDomain             = 'front-end.directory.wnor.net'
     cloudflareBeaconToken       = 'b34f0d542cc9435eb2a82caab9a87e15'
     cloudflareSpa               = false # true or false
 
 [params.images]
     favicon           = "assets/images/favicon.png"
-    searchImageL      = "assets/images/bg-dna.jpeg"		# 搜索部分浅色背景图
-    searchImageD      = "assets/images/bg-dna.jpeg"		# 搜索部分深色背景图
+    searchImageL      = "assets/images/bg-dna.webp"		# 搜索部分浅色背景图
+    searchImageD      = "assets/images/bg-dna.webp"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bt8-expand-light.png"
     logoExpandDark    = "assets/images/bt8-expand-dark.png"
     logoCollapseLight = "assets/images/bt.png"
@@ -51,4 +52,4 @@ publishDir            = "public"				# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系：https://github.com/wnor543 <br/>&copy; {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)'
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系：<a href="https://github.com/zpsud" class="" target="_blank" data-toggle="tooltip" data-placement="left" title="联系我们"><i class="mode-ico iconfont icon-github"></i></a> <br/>&copy; {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)'
