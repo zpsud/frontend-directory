@@ -157,8 +157,20 @@
 - taxonomy: 开发模版
   icon: fas fa-clone fa-lg
   list: 
-    # - term: 基础模版
-    #   links:
+    - term: 基础模版
+      links:
+        - title: Bulletproof React 🛡️ ⚛️
+          logo: https://unpkg.com/simple-icons@v12/icons/react.svg
+          url: https://github.com/alan2207/bulletproof-react
+          description: A simple, scalable, and powerful architecture for building production ready React applications.
+        - title: Next.js Enterprise Boilerplate
+          logo: https://unpkg.com/simple-icons@v12/icons/react.svg
+          url: https://github.com/Blazity/next-enterprise
+          description: Welcome to the Next.js Enterprise Boilerplate, an open-source template for enterprise projects! It's loaded with features that'll help you build a high-performance, maintainable, and enjoyable app. We've done all the heavy lifting for you, so sit back, relax, and get ready to conquer the world with your incredible app! 🌍
+        - title: Vue Enterprise Boilerplate
+          logo: https://unpkg.com/simple-icons@v12/icons/vuedotjs.svg
+          url: https://github.com/bencodezen/vue-enterprise-boilerplate
+          description: An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
     # - term: SaaS
     #   links:
     - term: 中后台
