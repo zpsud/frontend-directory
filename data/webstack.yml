@@ -83,23 +83,101 @@
   list: 
     - term: 移动端
       links:
+        - title: Vant
+          logo: https://fastly.jsdelivr.net/npm/@vant/assets/logo.png
+          url: https://vant-ui.github.io/vant/#/zh-CN
+          description: 轻量、可定制的移动端 Vue 组件库
+        - title: NutUI
+          logo: https://img14.360buyimg.com/imagetools/jfs/t1/167902/2/8762/791358/603742d7E9b4275e3/e09d8f9a8bf4c0ef.png
+          url: https://nutui.jd.com
+          description: 京东风格的轻量级移动端组件库
+        - title: TDesign Vue Next
+          logo: https://cdc.cdn-go.cn/tdc/latest/images/tdesign.svg
+          url: https://tdesign.tencent.com/mobile-vue/overview
+          description: TDesign 是腾讯各业务团队在服务业务过程中沉淀的一套企业级设计体系。提供了开箱即用的 UI 组件库、设计指南 和相关 设计资产，以优雅高效的方式将设计和研发从重复劳动中解放出来，同时方便大家在 TDesign 的基础上扩展，更好的的贴近业务需求。
+        - title: STDF
+          logo: https://stdf.design/favicon_black.ico
+          url: https://stdf.design/
+          description: 基于 Svelte 与 Tailwind 的移动 web 组件库
+        - title: TMUI
+          logo: https://tmui.design/images/logoGreat.png
+          url: https://tmui.design/
+          description: Uni App通用组件库跨端组件库 微信小程序，H5，APP-VUE，APP-NVUE 等
+        - title: uView UI
+          logo: https://www.uviewui.com/favicon.ico
+          url: https://www.uviewui.com/
+          description: uView UI，是全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
+        - title: ThorUI
+          logo: https://thorui.cn/doc/logo_black.png
+          url: https://thorui.cn/
+          description: ThorUI 轻量、简洁、全面的移动端组件库。能大幅提升开发效率，包含 uni-app 与微信小程序原生版本组件库！
+        - title: Cool Uni
+          logo: https://cool-js.com/logo.png
+          url: https://cool-js.com/uni/introduce.html
+          description: 简洁易用的uni-app组件库
     - term: PC 端
       links:
+        - title: Ant Design
+          logo: https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg
+          url: https://ant.design/
+          description: 助力设计开发者「更灵活」地搭建出「更美」的产品，让用户「快乐工作」～
+        - title: Material UI
+          logo: https://unpkg.com/simple-icons@v12/icons/materialdesign.svg
+          url: https://mui.com/
+          description: MUI offers a comprehensive suite of free UI tools to help you ship new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
+        - title: Chakra UI
+          logo: https://unpkg.com/simple-icons@v12/icons/chakraui.svg
+          url: https://chakra-ui.com/
+          description: Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+        - title: Mantine
+          logo: https://unpkg.com/simple-icons@v12/icons/mantine.svg
+          url: https://mantine.dev/
+          description: Build fully functional accessible web applications faster than ever – Mantine includes more than 100 customizable components and 50 hooks to cover you in any situation
+
+        - title: Ant Design Vue
+          logo: https://next.antdv.com/assets/logo.1ef800a8.svg
+          url: https://antdv.com/
+          description: 为 Web 应用提供了丰富的基础 UI 组件，我们还将持续探索企业级应用的最佳 UI 实践。
+        - title: Element Plus
+          logo: https://element-plus.org/apple-touch-icon.png
+          url: https://element-plus.org
+          description: 基于 Vue 3，面向设计师和开发者的组件库
+        - title: Naïve UI
+          logo: https://www.naiveui.com/assets/naivelogo-BdDVTUmz.svg
+          url: https://www.naiveui.com
+          description: 一个 Vue 3 组件库。比较完整，主题可调，使用 TypeScript，快。有点意思。
+
+        - title: TDesign
+          logo: https://cdc.cdn-go.cn/tdc/latest/images/tdesign.svg
+          url: https://tdesign.tencent.com/
+          description: TDesign 是腾讯各业务团队在服务业务过程中沉淀的一套企业级设计体系。提供了开箱即用的 UI 组件库、设计指南 和相关 设计资产，以优雅高效的方式将设计和研发从重复劳动中解放出来，同时方便大家在 TDesign 的基础上扩展，更好的的贴近业务需求。
     - term: 其他
       links:
 
 - taxonomy: 开发模版
   icon: fas fa-clone fa-lg
   list: 
-    - term: 基础模版
-      links:
-    - term: SaaS
-      links:
+    # - term: 基础模版
+    #   links:
+    # - term: SaaS
+    #   links:
     - term: 中后台
       links:
+        - title: vben3
+          logo: https://avatars.githubusercontent.com/u/76995045
+          url: https://github.com/vbenjs/vben3
+          description: Next-generation Vben framework
+        - title: SoybeanAdmin
+          logo: https://avatars.githubusercontent.com/u/119996361
+          url: https://github.com/soybeanjs/soybean-admin
+          description: 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+        - title: cool-admin
+          logo: https://cool-js.com/logo.png
+          url: https://github.com/cool-team-official/cool-admin-vue
+          description: 🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建
 
 - taxonomy: 在线工具
-  icon: far fa-tools
+  icon: fas fa-tools
   links:
     - title: CodePen
       logo: https://unpkg.com/simple-icons@v12/icons/codepen.svg
