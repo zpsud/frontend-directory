@@ -117,6 +117,7 @@
           description: 简洁易用的uni-app组件库
     - term: PC 端
       links:
+        # React
         - title: Ant Design
           logo: https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg
           url: https://ant.design/
@@ -134,6 +135,7 @@
           url: https://mantine.dev/
           description: Build fully functional accessible web applications faster than ever – Mantine includes more than 100 customizable components and 50 hooks to cover you in any situation
 
+        # vue
         - title: Ant Design Vue
           logo: https://next.antdv.com/assets/logo.1ef800a8.svg
           url: https://antdv.com/
@@ -147,6 +149,33 @@
           url: https://www.naiveui.com
           description: 一个 Vue 3 组件库。比较完整，主题可调，使用 TypeScript，快。有点意思。
 
+        # Tailwind
+        - title: Shadcn/ui
+          logo: https://unpkg.com/simple-icons@v12/icons/shadcnui.svg
+          url: https://ui.shadcn.com/
+          description: Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+        - title: Flowbite
+          logo: https://flowbite.com/apple-touch-icon.png
+          url: https://flowbite.com/
+          description: Start developing with an open-source library of over 600+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.
+        - title: shadcn-svelte
+          logo: https://unpkg.com/simple-icons@v12/icons/shadcnui.svg
+          url: https://www.shadcn-svelte.com/
+          description: Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+        - title: Preline UI
+          logo: https://preline.co/favicon.ico
+          url: https://preline.co/index.html
+          description: Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+        - title: Tailwind Component
+          logo: https://unpkg.com/simple-icons@v12/icons/tailwindcss.svg
+          url: https://tailwindui.com/components/preview
+          description: Beautiful UI components, crafted with Tailwind CSS.
+        - title: Tailblocks
+          logo: https://tailblocks.cc/favicon.png
+          url: https://github.com/mertJF/tailblocks
+          description: Ready-to-use Tailwind CSS blocks.
+
+        # Multi
         - title: TDesign
           logo: https://cdc.cdn-go.cn/tdc/latest/images/tdesign.svg
           url: https://tdesign.tencent.com/
@@ -171,10 +200,57 @@
           logo: https://unpkg.com/simple-icons@v12/icons/vuedotjs.svg
           url: https://github.com/bencodezen/vue-enterprise-boilerplate
           description: An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
-    # - term: SaaS
-    #   links:
+
+        # Tailwind
+        - title: Tailwind Templates & UI Kits
+          logo: https://www.builtatlightspeed.com/images/favicon/apple-touch-icon.png
+          url: https://www.builtatlightspeed.com/category/tailwind?themes%5BrefinementList%5D%5Bdistribution%5D%5B0%5D=open-source&themes%5BrefinementList%5D%5Bdistribution%5D%5B1%5D=free
+          description: Tailwind CSS is a utility-first CSS framework that provides pre-defined classes for building responsive and customizable user interfaces.
+        - title: Tailwind landing page template
+          logo: https://avatars.githubusercontent.com/u/63243128
+          url: https://github.com/cruip/tailwind-landing-page-template
+          description: Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js.
+        - title: Mosaic Lite - Tailwind Dashboard Template
+          logo: https://avatars.githubusercontent.com/u/63243128
+          url: https://github.com/cruip/tailwind-dashboard-template
+          description: Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React.
+        - title: TailApp
+          logo: https://cdn.taildashboards.com/favicon.svg
+          url: https://taildashboards.com/get/tailapp
+          description: A generic project management web app.
+        - title: TailSocial
+          logo: https://cdn.taildashboards.com/favicon.svg
+          url: https://taildashboards.com/get/tailsocial
+          description: Perfect starting point for your social network project
+        - title: TailAdmin
+          logo: https://cdn.taildashboards.com/favicon.svg
+          url: https://taildashboards.com/get/tailadmin
+          description: Minimal design to create clean and simple admin panels
+        - title: TailTube
+          logo: https://cdn.taildashboards.com/favicon.svg
+          url: https://taildashboards.com/get/tailtube
+          description: Generic video streaming dashboard UI
+        - title: Tailwind CSS Admin Panel
+          logo: https://tailwindcomponents.com/apple-touch-icon.png
+          url: https://tailwindcomponents.com/component/admin-panel-1
+          description: Response Admin Panel
+    - term: SaaS
+      links:
+        - title: Template
+          logo: https://raw.githubusercontent.com/amosbastian/template/main/apps/web/public/images/apple-icon-180.png
+          url: https://github.com/amosbastian/template
+          description: A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
+        - title: CMSaasStarter
+          logo: https://saasstarter.work/favicon.png
+          url: https://github.com/CriticalMoments/CMSaasStarter
+          description: A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
+        - title: Next13 AI SaaS
+          logo: https://unpkg.com/simple-icons@v12/icons/nextdotjs.svg
+          url: https://github.com/AntonioErdeljac/next13-ai-saas
+          description: Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe
     - term: 中后台
       links:
+        # Vue
         - title: vben3
           logo: https://avatars.githubusercontent.com/u/76995045
           url: https://github.com/vbenjs/vben3
@@ -187,6 +263,20 @@
           logo: https://cool-js.com/logo.png
           url: https://github.com/cool-team-official/cool-admin-vue
           description: 🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建
+
+        # Tailwind
+        - title: Flowbite Svelte Admin Dashboard
+          logo: https://flowbite-svelte.com/images/favicon.svg
+          url: https://github.com/themesberg/flowbite-svelte-admin-dashboard
+          description: Free and open-source admin dashboard template built with Flowbite, Svelte, and Tailwind CSS
+        - title: Flowbite Astro Admin Dashboard
+          logo: https://flowbite-svelte.com/images/favicon.svg
+          url: https://github.com/themesberg/flowbite-astro-admin-dashboard
+          description: Open-source admin dashboard template built with Astro, Flowbite, and Tailwind CSS
+        - title: Admin One
+          logo: https://justboil.github.io/admin-one-react-tailwind/favicon.png
+          url: https://github.com/justboil/admin-one-react-tailwind
+          description: Free React Next Tailwind 3.x admin dashboard template with typescript and dark mode.
 
 - taxonomy: 在线工具
   icon: fas fa-tools
