@@ -40,6 +40,16 @@
           url: https://css-irl.info/
           logo: https://css-irl.info/favicon/apple-touch-icon.png
           description: A blog about CSS, front-end development, the web, and beyond.
+    - term: 视频教程
+      links:
+        - title: Code With Antonio
+          url: https://www.youtube.com/@codewithantonio
+          logo: https://www.codewithantonio.com/apple-touch-icon.png
+          description: Nodejs 全栈开发教程
+        - title: Josh tried coding
+          url: https://www.youtube.com/@joshtriedcoding
+          logo: https://yt3.googleusercontent.com/BOomnT3SS1g-FQSUVBy51TaK2ylqbQzD8zeV783mM-W1q3MMbvE8jdjEeWwFqHmlm5Dk4dSAtg=s160-c-k-c0x00ffffff-no-rj
+          description: React 开发教程
 
 - taxonomy: 开发框架
   icon: fas fa-laptop-code fa-lg
