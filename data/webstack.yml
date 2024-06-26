@@ -1,5 +1,4 @@
 ---
-
 - taxonomy: 常用推荐
   icon: far fa-star
   links:
@@ -11,7 +10,7 @@
 
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
-  list: 
+  list:
     - term: 电子文档
       links:
         - title: ECMAScript 6 入门
@@ -53,7 +52,7 @@
 
 - taxonomy: 开发框架
   icon: fas fa-laptop-code fa-lg
-  list: 
+  list:
     - term: Web 框架
       links:
         - title: React
@@ -87,10 +86,9 @@
           url: https://flutter.dev/
           description: Flutter transforms the development process. Build, test, and deploy beautiful mobile, web, desktop, and embedded experiences from a single codebase.
 
-
 - taxonomy: UI 组件
   icon: fas fa-boxes fa-lg
-  list: 
+  list:
     - term: 移动端
       links:
         - title: Vant
@@ -203,7 +201,7 @@
 
 - taxonomy: 开发模版
   icon: fas fa-clone fa-lg
-  list: 
+  list:
     - term: 基础模版
       links:
         - title: Bulletproof React 🛡️ ⚛️
@@ -318,7 +316,7 @@
 
 - taxonomy: 网站托管
   icon: fas fa-globe fa-lg
-  list: 
+  list:
     - term: 静态网站
       links:
         - title: Cloudflare Pages
@@ -363,6 +361,10 @@
           logo: https://unpkg.com/simple-icons@v12/icons/railway.svg
           url: https://railway.app/
           description: Railway is the cloud for building, shipping, and monitoring applications. No Platform Engineer required.
+        - title: Adaptable
+          logo: https://adaptable.io/apple-touch-icon.png
+          url: https://adaptable.io/
+          description: Adaptable is designed to host almost any web-based app, along with all of the production-ready services your app needs. Whether you're building an API, a web UI or a full stack app.
     - term: VPS
       links:
         - title: Vultr
