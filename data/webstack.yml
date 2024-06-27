@@ -39,6 +39,10 @@
           url: https://css-irl.info/
           logo: https://css-irl.info/favicon/apple-touch-icon.png
           description: A blog about CSS, front-end development, the web, and beyond.
+        - title: SvelteKit.io
+          url: https://sveltekit.io/
+          logo: https://sveltekit.io/favicon/favicon.ico
+          description: Sveltekit Makes You A Better Developer
     - term: 视频教程
       links:
         - title: Code With Antonio
