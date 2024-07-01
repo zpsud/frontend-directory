@@ -202,10 +202,16 @@
           description: TDesign 是腾讯各业务团队在服务业务过程中沉淀的一套企业级设计体系。提供了开箱即用的 UI 组件库、设计指南 和相关 设计资产，以优雅高效的方式将设计和研发从重复劳动中解放出来，同时方便大家在 TDesign 的基础上扩展，更好的的贴近业务需求。
     - term: 其他
       links:
+        # 弹框
         - title: Vaul
           logo: https://vaul.emilkowal.ski/favicon.ico
           url: https://github.com/emilkowalski/vaul
           description: An unstyled drawer component for React.
+        # 轮播图
+        - title: Embla Carousel
+          logo: https://www.embla-carousel.com/favicon.svg
+          url: https://github.com/davidjerleke/embla-carousel
+          description: A bare bones carousel library with great fluid motion and awesome swipe precision. It's library agnostic, dependency free and 100% open source.
 
 - taxonomy: 开发模版
   icon: fas fa-clone fa-lg
@@ -276,6 +282,10 @@
           logo: https://unpkg.com/simple-icons@v12/icons/nextdotjs.svg
           url: https://github.com/AntonioErdeljac/next13-ai-saas
           description: Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe
+        - title: SaaS-Boilerplate
+          logo: https://unpkg.com/simple-icons@v12/icons/nextdotjs.svg
+          url: https://github.com/ixartz/SaaS-Boilerplate
+          description: 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
     - term: 中后台
       links:
         # Vue
