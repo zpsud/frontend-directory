@@ -305,6 +305,10 @@
 - taxonomy: 在线工具
   icon: fas fa-tools
   links:
+    - title: Component Party
+      logo: https://component-party.dev/favicon.png
+      url: https://component-party.dev/
+      description: Web component JS frameworks overview by their syntax and features: Svelte 4, React, Vue 3, Angular, Lit, Vue 2, Ember Octane, Solid.js, Alpine, Svelte 5 (preview), Ember Polaris (preview), Mithril, Aurelia 2, Qwik, Marko, Aurelia 1
     - title: CodePen
       logo: https://unpkg.com/simple-icons@v12/icons/codepen.svg
       url: https://codepen.io/
