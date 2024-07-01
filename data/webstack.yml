@@ -43,6 +43,10 @@
           url: https://sveltekit.io/
           logo: https://sveltekit.io/favicon/favicon.ico
           description: Sveltekit Makes You A Better Developer
+        - title: Dev Devout
+          url: https://devdevout.com/
+          logo: https://devdevout.com/images/logo.png
+          description: Dev Devout is devoted to helping developers, designers, and creatives all around the world. Discover well-organized easily understandable free informational web development applications and articles about programming languages such as HTML, CSS, JavaScript, Python, etc. including code examples.
     - term: 视频教程
       links:
         - title: Code With Antonio
