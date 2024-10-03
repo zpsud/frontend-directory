@@ -154,6 +154,10 @@
           logo: https://www.tremor.so/favicon.ico
           url: https://www.tremor.so/
           description: 20+ open-source components built on top of Tailwind CSS to make visualizing data simple again. Fully open-source, accessible and customizable.
+        - title: Aceternity UI
+          logo: https://ui.aceternity.com/apple-icon.png
+          url: https://ui.aceternity.com/
+          description: Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript.
 
         # vue
         - title: Ant Design Vue
