@@ -54,7 +54,7 @@
     <!-- end Google AdSense -->
     <!-- plausible analytics -->
     {{ if .Site.Params.analytics.plausibleScript }}
-    <script defer data-domain="{{ $.Site.Params.analytics.plausibleDomain }}" src="{{ $.Site.Params.analytics.plausibleScript }}"></script>
+    <script defer data-website-id="{{ $.Site.Params.analytics.plausibleDomain }}" data-domain="{{ $.Site.Params.analytics.plausibleDomain }}" src="{{ $.Site.Params.analytics.plausibleScript }}"></script>
     {{ end }}
     <!-- end plausible -->
 </head>
